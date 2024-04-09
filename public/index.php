@@ -26,7 +26,7 @@ require_once '../src/functions.php';
                     <a class="nav-link" href="#">Visualizza prenotazioni</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Inserisci prenotazione</a>
+                    <a class="nav-link" href="php/insertBooking.php">Inserisci prenotazione</a>
                 </li>
             </ul>
         </div>
